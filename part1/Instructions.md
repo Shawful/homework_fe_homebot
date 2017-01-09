@@ -8,10 +8,10 @@ We've also included within part1/image_components folder some images of stars to
 
 The four remaining text pieces of the ad from our advertiser are:
 
-Category: “Productivity”
-Title: “Automate Any Home”
-Description: “with Homebot”
-Call-to-action: “Install Now”
+Category: “Productivity”<br>
+Title: “Automate Any Home”<br>
+Description: “with Homebot”<br>
+Call-to-action: “Install Now”<br>
 
 A mockup image of a finished ad unit is stored in the part1/mockups folder.
 
