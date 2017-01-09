@@ -4,6 +4,8 @@ These six pieces are assembled and laid out in different ways (using templates).
 
 Within the part1/image_components folder we have included two pieces of data from an advertiser, an icon and a larger image.
 
+We've also included within part1/image_components folder some images of stars to help make your job easier.
+
 The four remaining text pieces of the ad from our advertiser are:
 
 Category: “Productivity”
@@ -11,11 +13,11 @@ Title: “Automate Any Home”
 Description: “with Homebot”
 Call-to-action: “Install Now”
 
-First we would like you to write the HTML and CSS to recreate as close as possible two finished ad units.
+A mockup image of a finished ad unit is stored in the part1/mockups folder.
 
-The mockup images of the finished ad units are stored in the part1/mockups folder.
+First we would like you to write the HTML and CSS to recreate as close as possible the finished ad unit.
 
-As well, we would like to you create a third ad unit of your own. Feel free to impress and wow us.
+As well, we would like you to create a second ad unit of your own. Feel free to impress and wow us.
 
 We've provided a part1/deliverables/css folder for your css and a part1/deliverables/html folder for your work.
 
