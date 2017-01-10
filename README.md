@@ -1,4 +1,4 @@
-# Homework_Homebot_v1.0
+# Homework_Homebot_v1.1
 
 The homework assignment consists of three different parts (don't worry, this will be fun).
 
