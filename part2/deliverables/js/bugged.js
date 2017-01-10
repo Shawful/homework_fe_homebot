@@ -124,7 +124,7 @@ var http = {
   },
 
 
-  // Load preexisting tasks from file
+  // Load preexisting tasks from remote machine
   getPreexistingList: function () {
 
     var url = "http://54.165.89.60/homeowork_homebot.json";
