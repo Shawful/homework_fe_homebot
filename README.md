@@ -14,4 +14,4 @@ Deliverables:
 
 Each part has a /deliverables folder which should contain your work for that portion of the homework.
 
-When finished, please zip your top level homework_homebot folder and email the zipped file to jobs@kixer.com.
+When finished, please zip your top level homework_homebot folder and email the zipped file to sorkand@kixer.com.
